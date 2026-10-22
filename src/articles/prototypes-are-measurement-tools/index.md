@@ -27,7 +27,7 @@ Right from the start — during requirements definition, system architecture, an
 This happens regardless of whether you’re developing an electric toothbrush, a coffee machine, or a medical ventilator.
 
 From day one, the device is designed with the finished product in mind. 
-What's often forgotten is this: the path to that finished product is long, full of unknowns that must be explored, understood, and — most importantly — measured. During development, the final product doesn’t exist yet. 
+What's often forgotten is this: the path to the finished product is long, full of unknowns that must be explored, understood, and — most importantly — measured. During development, the final product doesn’t exist yet. 
 It only emerges through countless iterations, tests, measurements, debugging loops, and insights.
 
 ## The missing piece: measurability during development
