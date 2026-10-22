@@ -87,7 +87,7 @@ High-frequency signals can be streamed over dedicated interfaces, slower ones ov
 
 The key takeaway: logging must be considered from the very beginning — during system architecture design, hardware design, and even component selection — to avoid performance issues later.
 
-## Distributed systems: logging across multiple controllers
+## Distributed Systems: Logging Across Multiple Controllers
 
 Modern devices often consist of several microcontrollers forming a distributed system.
 Not all sensors and actuators are connected to the same CPU.
