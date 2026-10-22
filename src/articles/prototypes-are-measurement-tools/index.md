@@ -144,8 +144,7 @@ Only by logging all raw sensor data and control signals with precise time alignm
 
 ## Conclusion: Every Prototype Is a Measurement Instrument — Or Should Be
 
-> A prototype that 'works' is useful".\
-"A prototype that is measurable is invaluable.
+> A prototype that “works” is useful. A prototype that is measurable is invaluable.
 
 Without complete and correctly timed measurement data, debugging becomes guesswork and optimization becomes trial and error. Planning a clear developer interface early saves time, reduces frustration, and dramatically accelerates product development.
 
