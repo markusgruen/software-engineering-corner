@@ -115,7 +115,7 @@ If it’s added late in the project, the result is usually:
 A well-designed early concept saves time, makes the project more robust, and — most importantly — accelerates development.
 Debugging becomes painful when you can’t see what’s happening inside the system.
 
-## Example: logging in a highly complex distributed system
+## Example: Logging in a Highly Complex Distributed System
 
 In one of my recent projects, I was fortunate: a logging function already existed, though not in the required scope.
 Extending it was accepted without much resistance.
