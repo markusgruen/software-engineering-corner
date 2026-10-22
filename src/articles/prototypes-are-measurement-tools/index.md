@@ -130,7 +130,7 @@ For logging, this introduced two challenges:
 As a result, the entire data path — both between processors and in the logging output — had to be reworked to support logging at the raw data rate.
 It took more than a week of unplanned work before all of the raw data finally appeared correctly at the logging interface.
 
-## Example: pressure sensor calibration during operation
+## Example: Pressure Sensor Calibration During Operation
 
 The same project also showed why logging actuator commands is just as important as logging raw sensor data — both at native frequency and fully time-synchronized.
 
