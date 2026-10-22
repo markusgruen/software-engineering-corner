@@ -82,7 +82,7 @@ If the signal characteristics allow it, transmitting only every *n*-th sample ca
 Developers choose only the signals relevant for the current measurement. This requires more logic and user interaction.
 5.	**Event-based logging:**  
 Useful for signals that change infrequently (e.g., system states) but harder to use with CSV because timestamps must be transmitted.
-6.	**Separate channels:**  
+6.	**Separate channels:**
 High-frequency signals can be streamed over dedicated interfaces, slower ones over shared channels.
 
 The key takeaway: logging must be considered from the very beginning — during system architecture design, hardware design, and even component selection — to avoid performance issues later.
