@@ -149,5 +149,6 @@ Only by logging all raw sensor data and control signals with precise time alignm
 Without complete and correctly timed measurement data, debugging becomes guesswork and optimization becomes trial and error. Planning a clear developer interface early saves time, reduces frustration, and dramatically accelerates product development.
 
 Or, to put it another way:
+
 > We’re not just building a tea machine. First, we’re building a measurement instrument.
 
