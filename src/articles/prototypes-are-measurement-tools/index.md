@@ -64,7 +64,7 @@ Personally, I prefer streaming CSV data via UART, for a few simple reasons:
 Most importantly, the output must be synchronized to the system clock, ideally by including timestamps. 
 Without proper timing, measurement data quickly becomes ambiguous and hard to interpret.
 
-## When data volume becomes a problem
+## When Data Volume Becomes a Problem
 
 In complex systems with many sensors and actuators, data volume can quickly become a bottleneck — especially at high sampling rates. 
 UART interfaces reach their limits quickly. 
