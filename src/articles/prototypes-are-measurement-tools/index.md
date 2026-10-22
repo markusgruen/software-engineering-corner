@@ -24,7 +24,7 @@ In many projects, I’m responsible for system integration, commissioning, and t
 Whether it’s a completely new, innovative product or the next iteration of an existing one, I keep seeing the same pattern.
 
 Right from the start — during requirements definition, system architecture, and in early functional prototypes — one crucial element is often overlooked. 
-And this happens regardless of whether you’re developing an electric toothbrush, a coffee machine, or a medical ventilator.
+This happens regardless of whether you’re developing an electric toothbrush, a coffee machine, or a medical ventilator.
 
 From day one, the device is designed with the finished product in mind. 
 What's often forgotten is this: the path to that finished product is long, full of unknowns that must be explored, understood, and — most importantly — measured. During development, the final product doesn’t exist yet. 
