@@ -81,7 +81,7 @@ If the signal characteristics allow it, transmitting only every *n*-th sample ca
 4.	**Selective logging:**  
 Developers choose only the signals relevant for the current measurement. This requires more logic and user interaction.
 5.	**Event-based logging:**  
-Useful for signals that change infrequently (e.g., system states). Harder to use with CSV because timestamps must be transmitted.
+Useful for signals that change infrequently (e.g., system states) but harder to use with CSV because timestamps must be transmitted.
 6.	**Separate channels:**  
 High-frequency signals can be streamed over dedicated interfaces, slower ones over shared channels.
 
