@@ -30,7 +30,7 @@ From day one, the device is designed with the finished product in mind.
 What's often forgotten is this: the path to the finished product is long, full of unknowns that must be explored, understood, and — most importantly — measured. During development, the final product doesn’t exist yet. 
 It emerges only through countless iterations, tests, measurements, debugging loops, and insights.
 
-## The missing piece: measurability during development
+## The Missing Piece: Measurability During Development
 
 Especially in the early phases, core functions of the device often need to be explored experimentally. 
 POC'a usually only answer a simple question: _Does it work at all?_ How it works in detail only becomes clear over the course of the project.
