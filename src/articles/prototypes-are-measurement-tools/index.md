@@ -127,8 +127,8 @@ For logging, this introduced two challenges:
 1.	In addition to processed data, raw sensor data now also had to be transmitted to the main CPU.
 2.	The raw data had a higher sampling rate than the processed signals.
 
-As a result, the entire data path — both between processors and in the logging output — had to be reworked to support native-rate raw data logging.
-It took more than a week of unplanned work before all raw data finally appeared correctly at the logging interface.
+As a result, the entire data path — both between processors and in the logging output — had to be reworked to support logging at the raw data rate.
+It took more than a week of unplanned work before all of the raw data finally appeared correctly at the logging interface.
 
 ## Example: pressure sensor calibration during operation
 
