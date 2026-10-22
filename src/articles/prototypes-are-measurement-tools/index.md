@@ -33,7 +33,7 @@ It emerges only through countless iterations, tests, measurements, debugging loo
 ## The missing piece: measurability during development
 
 Especially in the early phases, core functions of the device often need to be explored experimentally. 
-Proofs-of-concept usually only answer a simple question: _Does it work at all?_ How it works in detail only becomes clear over the course of the project.
+POC'a usually only answer a simple question: _Does it work at all?_ How it works in detail only becomes clear over the course of the project.
 A colleague once told me:
 
 > We’re building a tea machine, not a measurement device.
