@@ -45,7 +45,7 @@ The same is true for production and end-of-line testing.
 **But for development, the opposite is true.**
 
 System integrators and engineers need access to all relevant signals — and since nobody knows at the beginning which signals will turn out to be relevant later, "relevant" effectively means *everything*. 
-All raw sensor data, all actuator control values, all internal states (such as state machine states), ideally at the native sampling rate. 
+All raw sensor data, all actuator control values, and all internal states (such as state machine states), ideally at the native sampling rate.
 Only with this level of visibility can you truly understand system behavior, develop features efficiently, analyze bugs, and systematically identify root causes.
 
 ## Turning prototypes into measurement instruments
