@@ -100,7 +100,7 @@ Each controller has its own logging interface.
 
 Both approaches can work — but only if the architecture supports them. 
 Once again, this brings us back to early design decisions. 
-Inter-controller communication must either be designed for the required data volume and frequency, or the main processor must provide a system clock or heartbeat that other controllers can synchronize to. 
+Inter-controller communication must either be designed for the required data volume and frequency, or the main processor must provide a system clock or heartbeat that other controllers can synchronize with. 
 These are not details you want to figure out late in the project.
 
 ## Why logging must be planned from day one
