@@ -48,7 +48,7 @@ System integrators and engineers need access to all relevant signals — and sin
 All raw sensor data, all actuator control values, and all internal states (such as state machine states), ideally at the native sampling rate.
 Only with this level of visibility can you truly understand system behavior, develop features efficiently, analyze bugs, and systematically identify root causes.
 
-## Turning prototypes into measurement instruments
+## Turning Prototypes Into Measurement Instruments
 
 For a prototype to also serve as a measurement tool, it must be able to output its raw data. 
 The specific interface is largely irrelevant.
